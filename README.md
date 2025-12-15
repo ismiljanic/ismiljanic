@@ -62,7 +62,7 @@ Full-stack blood donation app built with React, TypeScript, Spring Boot, and Pos
 <td width="33%" valign="top">
 
 ### Symbolic Computation Engine
-Research-focused engine for symbolic computation and algorithmic problem solving, built with plain Java to explore mathematical expressions, simplifications and custom computational algorithms.
+Research-focused engine for symbolic computation and algorithmic problem solving, built with plain Java to further explore mathematical expressions, simplifications and computational algorithms.
 
 **Tech Stack:**  
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com/)
