@@ -49,7 +49,7 @@ Dockerized hybrid moderation microservice leveraging ML, transformer models and 
 <td width="33%" valign="top">
 
 ### SyntaxBase - Blood Donation App
-Full-stack blood donation app built with React, TypeScript, Spring Boot, and PostgreSQL built for SyntaxBase Advanced Web Development Course.
+Full-stack blood donation app built with React, TypeScript, Spring Boot, and PostgreSQL.
 
 **Tech Stack:**  
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com/)[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring)](https://spring.io/projects/spring-boot) [![React](https://img.shields.io/badge/-React-000?&logo=React)](https://reactjs.org/) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)](https://www.postgresql.org/)
@@ -62,7 +62,7 @@ Full-stack blood donation app built with React, TypeScript, Spring Boot, and Pos
 <td width="33%" valign="top">
 
 ### Symbolic Computation Engine
-Research-focused engine for symbolic computation and algorithmic problem solving.
+Research-focused engine for symbolic computation and algorithmic problem solving built with plain Java.
 
 **Tech Stack:**  
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com/)
