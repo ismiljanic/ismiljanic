@@ -96,11 +96,11 @@ AI-powered learning app that studies uploaded materials, generates quizzes and s
 </tr>
 </table>
 
-<br>
-
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/ivan-smiljanic/)
 [![Gmail](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:ssmiljanicivan@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?&logo=whatsapp)](https://wa.me/098820245)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram)](https://t.me/+098820245)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram)](https://www.instagram.com/ivansmiljanic9/)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ismiljanic)
