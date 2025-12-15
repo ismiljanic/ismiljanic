@@ -62,7 +62,7 @@ Full-stack blood donation app built with React, TypeScript, Spring Boot, and Pos
 <td width="33%" valign="top">
 
 ### Symbolic Computation Engine
-Research-focused engine for symbolic computation and algorithmic problem solving built with plain Java.
+Research-focused engine for symbolic computation and algorithmic problem solving, built with plain Java to explore mathematical expressions, simplifications and custom computational algorithms.
 
 **Tech Stack:**  
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com/)
@@ -84,7 +84,7 @@ SaaS ticketing system with robust authentication and authorization including Aut
 <td width="33%" valign="top">
 
 ### TeachMe
-AI-powered learning app that analyzes uploaded materials, generates quizzes, study summaries, and answers questions.
+AI-powered learning app that studies uploaded materials, generates quizzes and summaries, and provides answers to questions, helping users learn efficiently and interactively.
 
 **Tech Stack:**  
 [![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET&logoColor=007396)](https://dotnet.microsoft.com/en-us/)[![React](https://img.shields.io/badge/-React-000?&logo=React)](https://reactjs.org/)
