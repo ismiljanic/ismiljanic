@@ -98,8 +98,6 @@ AI-powered learning app that analyzes uploaded materials, generates quizzes, stu
 
 <br>
 
-[![ismiljanic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismiljanic&show_icons=true&theme=github_dark)](https://github.com/ismiljanic)
-
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/ivan-smiljanic/)
 [![Gmail](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:ssmiljanicivan@gmail.com)
