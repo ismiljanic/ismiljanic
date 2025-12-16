@@ -14,7 +14,7 @@
 
 Software engineer and recent computer science graduate focused on backend and full-stack development. Curious about new tools, frameworks and techniques that improve how we solve problems.
 
-Between projects, I'm probably breaking things on purpose—prototyping new ideas, testing frameworks and exploring patterns and practices that stick.
+Between projects, I'm probably breaking things on purpose: I'm prototyping new ideas, testing frameworks and exploring patterns and practices that stick.
 
 ### Core Technologies
 
