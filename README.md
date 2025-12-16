@@ -1,12 +1,11 @@
-<div align="center">
-
 # Ivan Smiljanić
 
 **Software Engineer | Full-Stack Developer**
 
-[LinkedIn](https://www.linkedin.com/in/ivan-smiljanic/) • [Email](mailto:ssmiljanicivan@gmail.com) • [Portfolio](https://ivansmiljanic.vercel.app/)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/ivan-smiljanic/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:ssmiljanicivan@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram)](https://t.me/+098820245)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://ivansmiljanic.vercel.app/)
 
 ---
 
@@ -69,13 +68,3 @@ Between projects, I'm probably breaking things on purpose: I'm prototyping new i
 > [![Source Code](https://img.shields.io/badge/-Source%20Code-000?&logo=github)](https://github.com/ismiljanic/TeachMe)
 
 ---
-
-<div align="center">
-
-### Contact Info
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/ivan-smiljanic/)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:ssmiljanicivan@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram)](https://t.me/+098820245)
-
-</div>
