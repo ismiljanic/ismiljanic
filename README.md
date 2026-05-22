@@ -1,6 +1,6 @@
 # Ivan Smiljanić
 
-**Software Engineer | Full-Stack Developer**
+**Software Engineer | Backend Developer**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/ivan-smiljanic/)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:ssmiljanicivan@gmail.com)
